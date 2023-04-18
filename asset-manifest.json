@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio_ManishGoyal/static/css/main.26ce8a15.css",
+    "main.js": "/Portfolio_ManishGoyal/static/js/main.6b6efc48.js",
+    "static/media/Work1.png": "/Portfolio_ManishGoyal/static/media/Work1.f8402cb3af3181c813c6.png",
+    "static/media/Work12.png": "/Portfolio_ManishGoyal/static/media/Work12.51f22057587cbf216feb.png",
+    "static/media/Work11.png": "/Portfolio_ManishGoyal/static/media/Work11.336eccd8d5caa49e4054.png",
+    "static/media/Manish_Goyal.png": "/Portfolio_ManishGoyal/static/media/Manish_Goyal.3b5671dffaebc38fd810.png",
+    "static/media/Resume Manish Goyal.pdf": "/Portfolio_ManishGoyal/static/media/Resume Manish Goyal.1e58ffc657d3e050e9f0.pdf",
+    "static/media/Work5.png": "/Portfolio_ManishGoyal/static/media/Work5.6cf92c4b33b9a5a59b08.png",
+    "static/media/testimonial1.png": "/Portfolio_ManishGoyal/static/media/testimonial1.988c75ec2f1a380e51d2.png",
+    "static/media/Work2.png": "/Portfolio_ManishGoyal/static/media/Work2.d750a190643854b54f13.png",
+    "static/media/Work8.png": "/Portfolio_ManishGoyal/static/media/Work8.3becdba9d83a1d742441.png",
+    "static/media/Work9.png": "/Portfolio_ManishGoyal/static/media/Work9.690a62c6b2cb4811f96e.png",
+    "static/media/Work3.png": "/Portfolio_ManishGoyal/static/media/Work3.820b009d70148055a114.png",
+    "static/media/testimonial2.jpeg": "/Portfolio_ManishGoyal/static/media/testimonial2.c99d542a1b1206723a20.jpeg",
+    "static/media/Work6.png": "/Portfolio_ManishGoyal/static/media/Work6.1d8e078919d4049f9a55.png",
+    "static/media/Work7.png": "/Portfolio_ManishGoyal/static/media/Work7.4a84ca65ab0168e78eb6.png",
+    "static/media/Work10.png": "/Portfolio_ManishGoyal/static/media/Work10.df75510621be7256fec7.png",
+    "static/media/Work4.png": "/Portfolio_ManishGoyal/static/media/Work4.2e5a68d35f29aeac29e8.png",
+    "index.html": "/Portfolio_ManishGoyal/index.html",
+    "main.26ce8a15.css.map": "/Portfolio_ManishGoyal/static/css/main.26ce8a15.css.map",
+    "main.6b6efc48.js.map": "/Portfolio_ManishGoyal/static/js/main.6b6efc48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26ce8a15.css",
+    "static/js/main.6b6efc48.js"
+  ]
+}
