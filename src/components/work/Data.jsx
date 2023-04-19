@@ -18,6 +18,7 @@ export const projectsData = [
         image: Work1,
         title: 'SVNIT- Student Portal',
         category: 'UI/UX',
+        link: 'https://dribbble.com/shots/17353945-UI-UX',
     },
 
     {
@@ -25,6 +26,7 @@ export const projectsData = [
         image: Work2,
         title: 'TnP Brochure, IIIT Surat',
         category: 'Graphic Design',
+        link: 'https://dribbble.com/shots/19347107-Placement-Brochure',
     },
 
     {
@@ -32,6 +34,7 @@ export const projectsData = [
         image: Work3,
         title: 'Brand design, BK Players',
         category: 'Graphic Design',
+        link: 'https://www.behance.net/gallery/153413971/Branding-Logo-Making',
     },
 
     {
@@ -39,6 +42,7 @@ export const projectsData = [
         image: Work4,
         title: 'Brand design, Ruminates',
         category: 'Graphic Design',
+        link: 'https://www.behance.net/gallery/166249733/Merchandise-Design',
     },
 
     {
@@ -46,6 +50,7 @@ export const projectsData = [
         image: Work5,
         title: 'Magazine Design, Renesa',
         category: 'Graphic Design',
+        link: 'https://dribbble.com/shots/19347272-Magazine-Layout',
     },
 
     {
@@ -53,42 +58,50 @@ export const projectsData = [
         image: Work6,
         title: 'Web design, D.Momo',
         category: 'web',
+        link: 'https://dribbble.com/shots/17364850-Website-UI',
     },
     {
         id:7,
         image: Work7,
-        title: 'Web Design',
+        title: 'Portfolio Website',
         category: 'Web',
+        link: 'https://manishgoyal30.github.io/Portfolio_ManishGoyal/#contact',
     },
     {
         id:8,
         image: Work8,
         title: 'Brand design, Oosadhi',
         category: 'Graphic Design',
+        link: 'https://dribbble.com/shots/17496535-OOSADHI',
     },
     {
         id:9,
         image: Work9,
         title: 'UI/UX design, Gurucamp',
         category: 'UI/UX',
+        link: 'https://dribbble.com/shots/17354252-UI-UX',
     },
     {
         id:10,
         image: Work10,
         title: 'Web design, ZOTH.io',
         category: 'UI/UX',
+        link: 'https://zoth.io/',
     },
     {
         id:11,
         image: Work11,
-        title: 'Web design',
+        title: 'Tnp Student Portal',
         category: 'UI/UX',
+        link: '#'
+
     },
     {
         id:12,
         image: Work12,
         title: 'Web design, Oosadhi',
         category: 'UI/UX',
+        link: 'https://dribbble.com/shots/17496535-OOSADHI'
     },
 
 ];
